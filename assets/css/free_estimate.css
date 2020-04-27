@@ -1,0 +1,59 @@
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+  height: 100%;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(../../images/guys_gutterguards2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.page-heading {
+
+    padding: 0px 0px;
+}
+.whiteform{
+    color: black;
+    opacity: 80%;
+    border: 0px solid #0000!important;
+    box-shadow: 4px 4px 4px 4px;
+}
+#checkboxsize input{
+    width: 1px!important;
+    height: 1px!important;
+}
+#checkboxsize label{
+    font-size: 0.8em;
+    color: grey;
+}
+
+@media screen and (max-width: 800px){
+    body{overflow:auto; height:100%}
+}
+@media screen and (max-width: 400px){
+    .section-heading{margin-bottom: 5px}
+}
+@media screen and (max-width: 400px){
+    .callback-form .contact-form input
+{margin-bottom: 5px}
+}
+@media screen and (max-width: 400px){
+    #checkboxsize{margin: 0}
+}
+.formin input{
+   margin: 0 0 0!important;
+   padding: 0 0 0!important;
+   font-size: 0.5em;
+   width: 15px;
+   height: 15px;
+   vertical-align: middle;
+
+}
+.formin label{
+    font-size: 0.8em!important;
+    color: grey;
+}
