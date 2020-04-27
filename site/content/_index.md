@@ -1,7 +1,7 @@
 ---
 title: "Home Service Solutions"
 subtitle: Blog
-image: /img/home-jumbotron.jpg
+image: /img/blog_bg.jpg
 blurb:
     heading: Home Service Solutions
     text: "Welcome to Home Service Solutions, your all in one Home Service company.
