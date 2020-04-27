@@ -5,20 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
     heading: Home Service Solutions
     text: "Welcome to Home Service Solutions, your all in one Home Service company.
-We're dedicated to giving you the very best service experience you have ever received, completely hassle free, and great customer service!
-
-Our mission is to take all those lingering tasks off your to do list so you, as a homeowner can put your time and energy into what really matters. Your family, friends and of course, you.
-
-We now serve customers in Ontario and British Columbia and are thrilled to be a company that will take care of you and your home as long as you're living in it.
-
-We hope you enjoy our services as much as we enjoy performing them for you.
-
-If you have any questions or are ready to go ahead and book your next service, please don't hesitate to contact us.
-
-Relax, We’ve got it.
-
-Sincerely,
-The Home Service Solutions Team"
+We're dedicated to giving you the very best service experience you have ever received, completely hassle free, and great customer service!"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
